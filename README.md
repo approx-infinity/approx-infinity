@@ -3,7 +3,6 @@
 🎓 Nuclear Engineering Student.
   Interested in **Scientific Machine Learning (SciML)** & **Physics-based Simulation**
 
----
 
 ##  Interests
 
@@ -12,7 +11,6 @@
 * Physics-Informed Neural Networks (PINNs)
 * Scientific computing
 
----
 
 ##  Tools
 
