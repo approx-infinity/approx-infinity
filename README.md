@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Hridoy
 
-<!--
-**approx-infinity/approx-infinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Nuclear Engineering Student
+🔬 Interested in **Scientific Machine Learning (SciML)** & **Physics-based Simulation**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Interests
+
+* Reactor physics & kinetics
+* Neutron transport & radiation modeling
+* Physics-Informed Neural Networks (PINNs)
+* Scientific computing
+
+---
+
+## 🛠️ Tools
+
+* C++ (currently learning for HPC & simulation)
+* Julia (DifferentialEquations.jl, ModelingToolkit.jl, Lux)
+* Python
+
