@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Hridoy
 
-🎓 Nuclear Engineering Student
-🔬 Interested in **Scientific Machine Learning (SciML)** & **Physics-based Simulation**
+🎓 Nuclear Engineering Student.
+  Interested in **Scientific Machine Learning (SciML)** & **Physics-based Simulation**
 
 ---
 
-## 🧪 Interests
+##  Interests
 
 * Reactor physics & kinetics
 * Neutron transport & radiation modeling
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tools
+##  Tools
 
 * C++ (currently learning for HPC & simulation)
 * Julia (DifferentialEquations.jl, ModelingToolkit.jl, Lux)
