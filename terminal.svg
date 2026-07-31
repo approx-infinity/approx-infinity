@@ -89,26 +89,26 @@
   <text class="line-hi" x="18" y="88" font-family="'Courier New',monospace" font-size="14" fill="#fce94f">&#x1F44B; Hi, I'm Hridoy</text>
 
   <text class="line-edu1" x="18" y="108" font-family="'Courier New',monospace" font-size="13.5" fill="#eeeeec">&#x1F393; Nuclear Engineering student at the University of Dhaka,</text>
-  <text class="line-edu2" x="18" y="126" font-family="'Courier New',monospace" font-size="13.5" fill="#eeeeec">   currently completing the 7th semester of the B.Sc. program.</text>
+  <text class="line-edu2" x="18" y="126" font-family="'Courier New',monospace" font-size="13.5" fill="#eeeeec">   currently completing the final semester of the B.Sc. program.</text>
+  
+  <text class="head-ri" x="18" y="164" font-family="'Courier New',monospace" font-size="14" fill="#8ae234" font-weight="bold">## Research Interests</text>
 
-  <text class="head-ri" x="18" y="154" font-family="'Courier New',monospace" font-size="14" fill="#8ae234" font-weight="bold">## Research Interests</text>
-
-  <text class="line-b1" x="18" y="176" font-family="'Courier New',monospace" font-size="14">
+  <text class="line-b1" x="18" y="186" font-family="'Courier New',monospace" font-size="14">
     <tspan fill="#729fcf">* </tspan><tspan fill="#eeeeec">Fusion Energy and Plasma Physics</tspan>
   </text>
-  <text class="line-b2" x="18" y="196" font-family="'Courier New',monospace" font-size="14">
+  <text class="line-b2" x="18" y="206" font-family="'Courier New',monospace" font-size="14">
     <tspan fill="#729fcf">* </tspan><tspan fill="#eeeeec">Reactor Physics and Reactor Kinetics</tspan>
   </text>
-  <text class="line-b3" x="18" y="216" font-family="'Courier New',monospace" font-size="14">
+  <text class="line-b3" x="18" y="226" font-family="'Courier New',monospace" font-size="14">
     <tspan fill="#729fcf">* </tspan><tspan fill="#eeeeec">Scientific Computing</tspan>
   </text>
-  <text class="line-b4" x="18" y="236" font-family="'Courier New',monospace" font-size="14">
+  <text class="line-b4" x="18" y="246" font-family="'Courier New',monospace" font-size="14">
     <tspan fill="#729fcf">* </tspan><tspan fill="#eeeeec">Scientific Machine Learning (SciML)</tspan>
   </text>
 
   <!-- trailing prompt -->
-  <text class="line-prompt2" y="264" font-family="'Courier New',monospace" font-size="14">
+  <text class="line-prompt2" y="274" font-family="'Courier New',monospace" font-size="14">
     <tspan x="18" fill="#4e9a06">hridoy@github</tspan><tspan fill="#eeeeec">:</tspan><tspan fill="#3465a4">~</tspan><tspan fill="#eeeeec">$ </tspan>
   </text>
-  <rect class="cursor2" x="161" y="251" width="8.4" height="14"/>
+  <rect class="cursor2" x="161" y="261" width="8.4" height="14"/>
 </svg>
